@@ -24,6 +24,6 @@ The optimal value of alpha is 1.7 as shown in "choosing_alpha.png"
 
 #result 
 As shown in "compare_btw_time_and_no_time.png", by taking into
-account the temporal dynamic interest of user, this has significantly
+account the time information, this has significantly
 improve the performance of recommendation system in terms of mean absolute error.
 
